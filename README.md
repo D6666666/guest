@@ -1,2 +1,2 @@
 # guest
-django开发发布会系统
+django发布会系统
