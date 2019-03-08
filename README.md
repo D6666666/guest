@@ -1,5 +1,7 @@
 # nginx+uwsgi+django+mysql
+
 django简易发布会系统
+
 1、bootstrap3模板 
 
 2、数据模型迁移mysql
